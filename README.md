@@ -1,4 +1,4 @@
-🌟 Actividad: “¡Cuenta Regresiva Recursiva!”
+**🌟 Actividad: “¡Cuenta Regresiva Recursiva!”**
 
 🏫 Contexto
 
