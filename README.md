@@ -1,7 +1,11 @@
 🌟 Actividad: “¡Cuenta Regresiva Recursiva!”
+
 🏫 Contexto
+
 En el aula de informática, queremos explorar el poder de la recursividad y la modularización en Python. Imagina que estás diseñando materiales para tus futuros estudiantes, mostrando cómo dividir un problema en partes pequeñas y reutilizables.
+
 🎯 Objetivos
+
 Aplicar funciones recursivas en la resolución de problemas simples.
 
 
@@ -15,6 +19,7 @@ Fomentar la creatividad al proponer variantes a la consigna.
 
 
 📄 Consigna
+
 Crea un módulo llamado contador.py con:
 
 
@@ -40,6 +45,7 @@ Opcional: Agrega una variante creativa (por ejemplo, mostrar un mensaje especial
 
 
 📦 Entregable
+
 Repositorio GitHub llamado:
  CuentaRegresivaRecursiva2025
 
